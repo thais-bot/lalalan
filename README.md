@@ -1,7 +1,7 @@
 # lalalan
 
 body {
-    color: white;
+    color: black;
     background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
